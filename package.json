@@ -1,0 +1,15 @@
+{
+  "name": "cssbattle",
+  "version": "1.0.0",
+  "description": "Aplicaciones moviles",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Fernando Uribe",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-cssmin": "^3.0.0"
+  }
+}
